@@ -1,7 +1,7 @@
 # Elementary Cellular Automaton
 
 ## This is implementaion of **Elementary Cellular Automaton** in go.
-## ported from (Wolfram_ca)[https://github.com/jagannathhari/wolfram_ca]
+## ported from [Wolfram_ca](https://github.com/jagannathhari/wolfram_ca)
 
 
 # Build
